@@ -1,4 +1,3 @@
-
 CreateObject("SAPI.SpVoice").Speak"Procerssus d'installation est entrain de s'ouvrir"
 
 WScript.Sleep 300
