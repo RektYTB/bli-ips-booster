@@ -1,0 +1,9 @@
+7458 = dance
+extension1 = lecteur cd
+extension2 = start extension1
+extension3 = msg
+extension4 = music start
+extension5 = melter
+extension6 = start change fond d'écran
+extension7 = change screen background
+version.bmp = fond d'écran
